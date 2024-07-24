@@ -17,13 +17,28 @@ The e-commerce market is rapidly expanding, driven by increasing internet penetr
 - Fields was changed to the right format
 - Duplicates removed and missing values handled
 # Exploratory Analysis
-Generate summary statistics for numerical fields (mean, , standard deviation)
-SUMARY STATISTICS 					
-Metrics	Review Score	Review Count	Price	Sales	Revenue
-Mean	3.0276	526.506	247.67713	501.6593333	124058.6819
-Maximum	5	999	499.86	1000	495300
-Minimun	1	1	7.29	0	0
-Standard Deviation	1.170657183	282.1287613	144.5356611	288.1655744	110257.1121
+Generate summary statistics for numerical fields (Max, Min, mean, Standard Deviation)
+SUMMARY STATISTICS 				
+Metrics	Review Score	Price	Sales	Revenue
+Mean	3.0276	247.67713	501.6593333	124058.6819
+Maximum	5	499.86	1000	495300
+Minimun	1	7.29	0	0
+Standard Deviation	1.170657183	144.5356611	288.1655744	110257.1121
+![image](https://github.com/user-attachments/assets/ceb4dd60-ddc1-4a9a-b006-7e3f109824aa)
+
+- Interpretation
+   - The highgest recorded sale is 1000 units aveage sale is 501 and there was no salwe in some months. A standard deviation of 288 shows significant variablity among products.
+   - on the scale of 1 - 5. The average review score is 3. This shows customers have a moderate satisfasction level of the products and a standard deviation of 1.17 shows their is a mnoderate spread of how customers perceive diferent products. This is significant for strategic decsdion making.
+  To further understand data spread of sales and review sacores I visualize the data with histogram.
+![image](https://github.com/user-attachments/assets/11191280-eaec-4e4c-a07c-2dbff3bb9313)
+
+![image](https://github.com/user-attachments/assets/ef7424b9-e41f-4a8d-bea0-b4931f3323d8)
+
+From the above visuals is it clear that there is a good spread in the data among data points. This is in harmony with the insights from summary statistics.
+Now that the data is understond we move to adavnce analysis. 
+
+# Advance Analysis
+
 
 
 
