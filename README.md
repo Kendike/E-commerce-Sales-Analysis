@@ -37,10 +37,12 @@ Standard Deviation	1.170657183	144.5356611	288.1655744	110257.1121
 From the above visuals is it clear that there is a good spread in the data among data points. This is in harmony with the insights from summary statistics.
 Now that the data is understond we move to adavnce analysis. 
 
+# Advance Analysis/Visualization
 
 
 
-# limitation 
+
+# Limitation 
 there is need for further research on the cause for average performance of products. If it is due to price, quality of product or customer service. The data for this is not available hence the need for further research to boost sales and review score.
 
 
