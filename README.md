@@ -6,7 +6,8 @@ The e-commerce market is rapidly expanding, driven by increasing internet penetr
 - Understand Customer Preferences: Analyze customer reviews and ratings to gauge customer satisfaction and preferences.
 - Identify Trends and Patterns: Detect seasonal trends and temporal patterns in product sales to forecast future performance.
 - Predictive Modeling: Build models to predict future sales, aiding inventory management and marketing efforts.
-  # Data Source
+  
+# Data Source
   [kaggle](Kaggle.com)
 # Tools
 - Excel: For initial data cleaning, transformation, and basic analysis
