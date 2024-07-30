@@ -1,4 +1,4 @@
-# Ecommerce-Market-Analysis
+# E-commerce-Sales-Analysis
 # Overview
 The e-commerce market is rapidly expanding, driven by increasing internet penetration, technological advancements, and changing consumer behaviors. To thrive in this competitive environment, businesses must understand product performance and customer preferences comprehensively. This project aims to analyze product performance and customer preferences within an e-commerce setting, leveraging data analysis techniques to derive actionable insights.
 # Objectives
